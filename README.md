@@ -36,7 +36,3 @@ server {
 
 # Informations / Suggestions
 - il faudrait mieux utiliser des proxys cloudflare  pour eviter les vulnérabilité sur le websocket. 
-
-# Credit
-- [Palladium](https://github.com/PinePlatforms/Palladium)
-- [Palladium, fork by Ghostload74](https://github.com/Ghostload74/Palladium)
